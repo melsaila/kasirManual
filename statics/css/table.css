@@ -1,0 +1,103 @@
+table {
+	border: 1px dotted #ccc;
+	border-collapse: collapse;
+	margin: auto;
+	font-weight: normal;
+}
+
+table th {
+	padding: 2px;
+	border: 1px dotted #ccc;
+	text-decoration: none;
+	background: #7AB8C4;
+}
+
+table tr,td {
+	border: 1px dotted #ccc;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+table tr:hover {
+	background-color: #EBE8E9;
+	color: #0E69B3;
+}
+
+.button {
+	padding: 5px 8px;
+	display: inline;
+	background: #777 url(images/button.png) repeat-x bottom;
+	border: none;
+	color: #ffffff;
+	cursor: pointer;
+	font-weight: bold;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	text-shadow: 1px 1px #666;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-position: 0 center;
+}
+
+.button:active {
+	background-position: 0 top;
+	position: relative;
+	top: 1px;
+}
+
+.button.red {
+	background-color: #e50000;
+}
+
+.button.purple {
+	background-color: #ADACAC;
+}
+
+.button.green {
+	background-color: #58aa00;
+}
+
+.button.orange {
+	background-color: #ff9c00;
+}
+
+.button.blue {
+	background-color: #2c6da0;
+}
+
+.button.black {
+	background-color: #333;
+}
+
+.button.silver {
+	background-color: #ECEDCA;
+}
+
+.button.white {
+	background-color: #fff;
+	color: #000;
+	text-shadow: 1px 1px #fff;
+}
+
+.button.small {
+	font-size: 75%;
+	padding: 3px 7px;
+}
+
+.button.small:active {
+	padding: 4px 7px 2px;
+	background-position: 0 top;
+}
+
+.button.large {
+	font-size: 125%;
+	padding: 7px 12px;
+}
+
+.button.large:active {
+	padding: 8px 12px 6px;
+	background-position: 0 top;
+}

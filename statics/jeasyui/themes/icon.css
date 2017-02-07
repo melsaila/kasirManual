@@ -1,0 +1,96 @@
+.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/edit.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/approve.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/refresh.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+.icon-logout{
+	background: url('icons/logout.png') no-repeat center center;
+}
+.icon-approve{
+	background: url('icons/approve.png') no-repeat center center;
+}
+.icon-submenu{
+	background: url('icons/submenu.png') no-repeat center center;
+}
+.icon-bullet{
+	background: url('icons/bullet.png') no-repeat center center;
+}
+.icon-deactive{
+	background: url('icons/block.png') no-repeat center center;
+}
+.icon-reset{
+	background: url('icons/reset.png') no-repeat center center;
+}
+.icon-human{
+	background: url('icons/human.png') no-repeat center center;
+}
+.icon-download{
+	background: url('icons/download.png') no-repeat center center;
+}
+.icon-calender{
+	background: url('icons/calender.png') no-repeat center center;
+}
+.icon-books{
+	background: url('icons/books.png') no-repeat center center;
+}
+.icon-looking{
+	background: url('icons/looking.png') no-repeat center center;
+}
+.icon-pdf{
+	background: url('icons/pdf.png') no-repeat center center;
+}
+.icon-xls{
+	background: url('icons/xls.png') no-repeat center center;
+}
+.icon-user{
+	background: url('icons/user.png') no-repeat center center;
+}
